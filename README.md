@@ -3,3 +3,4 @@ This repository contains a floor-wise college building map created using QGIS an
 <br>
 To run these all files you will need QGIS software.
 <br>
+The main file is of formate 
